@@ -30,7 +30,7 @@
     "license": "CC0-1.0",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/trailheadapps/lwc-recipes"
+        "url": "git+https://github.com/T-Gio/lwc-recipes"
     },
     "devDependencies": {
         "@lwc/eslint-plugin-lwc": "^1.6.2",
